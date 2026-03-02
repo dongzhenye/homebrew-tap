@@ -1,6 +1,6 @@
 cask "reverse-scroll-cli" do
   version "0.1.0"
-  sha256 "TODO"
+  sha256 "1f277bd5422fd51760e7e1e179e35f30a48deeaca2eec8044b8e181d9f4bbc67"
 
   url "https://github.com/dongzhenye/reverse-scroll-cli/releases/download/v#{version}/ReverseScrollCLI.app.zip"
   name "ReverseScrollCLI"
